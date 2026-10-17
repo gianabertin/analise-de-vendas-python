@@ -1,6 +1,5 @@
-# analise-de-vendas-python
-Projeto de análise de vendas com Python, Pandas, Matplotlib e dashboard interativo.
 # 📊 Análise de Vendas com Python
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gianabertin/analise-de-vendas-python/blob/main/Analise_de_Vendas_Python.ipynb)
 
 ## 🎯 Sobre o projeto
 
